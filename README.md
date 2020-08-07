@@ -1,7 +1,10 @@
 # AggressionDetection
 AggreVision analyzes facial expressions to detect aggressive driving.
 
-In the code:
+code_aggrevision.ipynb: our Jupyter Notebook code for our neural network + cv2 implementation!
+haarcascade_frontalface_default.xml: our Cascade Classification file that is required to run the code
+
+In the code (ipynb):
 - load dataset of 'neutral' and 'aggressive' facial images
 - transform and prepare images to be transfered to a neural network
 - define the layers of the VGG Neural Network
