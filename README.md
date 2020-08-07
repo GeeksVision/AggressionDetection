@@ -10,4 +10,6 @@ In the code:
 - test model on testing dataset
 - implement cv2 to allow video stream expression detection!
 
+This repository does not include our large dataset.
+
 Let us know if you have any questions about the code, and enjoy AggreVision.
